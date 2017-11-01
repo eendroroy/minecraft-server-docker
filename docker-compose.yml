@@ -2,7 +2,7 @@
 version: '3'
 services:
   minecraft:
-    image: eendroroy/minecraft:1.12.1-alpine
+    image: eendroroy/minecraft:latest
     volumes:
       - './worlds:/worlos:rw'
     ports:

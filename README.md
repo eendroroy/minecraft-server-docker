@@ -18,7 +18,3 @@ Visit [**Docker Hub**](https://hub.docker.com/r/eendroroy/minecraft-server/)
 Use `0.0.0.0:25565` as minecraft server address
 
 You can also use a docker-compose.yml file. see [docker-compose.yml](latest/docker-compose.yml) for example.
-
-### builds
-
-- latest - [![](https://images.microbadger.com/badges/image/eendroroy/minecraft-server.svg)](https://hub.docker.com/r/eendroroy/minecraft-server/) [![](https://images.microbadger.com/badges/version/eendroroy/minecraft-server.svg)](https://hub.docker.com/r/eendroroy/minecraft-server/)

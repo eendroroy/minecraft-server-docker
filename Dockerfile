@@ -14,7 +14,7 @@ RUN apk add --no-cache --virtual=curl && \
     apk del curl && \
     rm -rf /var/cache/apk/*
 
-EXPOSE ${SERVER_POR
+EXPOSE ${SERVER_PORT}
 
 WORKDIR /
 

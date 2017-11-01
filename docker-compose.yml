@@ -1,0 +1,13 @@
+---
+version: '3'
+services:
+  minecraft:
+    image: eendroroy/minecraft:1.12.1-alpine
+    volumes:
+      - './worlds:/worlos:rw'
+    ports:
+      - "25565:25565"
+    espose:
+      - "25565"
+    environment:
+      - SERVER_PORT=25565

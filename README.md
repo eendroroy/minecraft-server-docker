@@ -18,11 +18,15 @@ Visit [**Docker Hub**](https://hub.docker.com/r/eendroroy/minecraft-server/)
 
 #### pull image
 
-    docker pull eendroroy/minecraft-server:latest
+```bash
+docker pull eendroroy/minecraft-server:latest
+```
 
 #### run
 
-    docker run --name some-minecraft-server -v ${pwd}/world:/minecraft/world -d eendroroy/minecraft-server:latest
+```bash
+docker run --name some-minecraft-server -v ${pwd}/world:/minecraft/world -d eendroroy/minecraft-server:latest
+```
 
 Use `0.0.0.0:25565` as minecraft server address
 

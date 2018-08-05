@@ -11,6 +11,8 @@
 
 [![](https://images.microbadger.com/badges/image/eendroroy/minecraft-server.svg)](https://hub.docker.com/r/eendroroy/minecraft-server/) [![](https://images.microbadger.com/badges/version/eendroroy/minecraft-server.svg)](https://hub.docker.com/r/eendroroy/minecraft-server/)
 
+[![](https://images.microbadger.com/badges/image/eendroroy/minecraft-server:1.12.2-alpine.svg)](https://hub.docker.com/r/eendroroy/minecraft-server/) [![](https://images.microbadger.com/badges/version/eendroroy/minecraft-server:1.12.2-alpine.svg)](https://hub.docker.com/r/eendroroy/minecraft-server/)
+
 
 Visit [**Docker Hub**](https://hub.docker.com/r/eendroroy/minecraft-server/)
 
